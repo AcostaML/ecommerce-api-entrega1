@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d8o6BLO7PX",
+    "title": "Zapatillas",
+    "description": "Zapatillas running",
+    "code": "SKU-001",
+    "price": 49990,
+    "status": true,
+    "stock": 30,
+    "category": "calzado",
+    "thumbnails": [
+      "uploads/zapatillas1.jpg"
+    ]
+  },
+  {
+    "id": "Mo85ogysaY",
+    "title": "Polera",
+    "description": "Deportiva",
+    "code": "SKU-002",
+    "price": 45990,
+    "status": true,
+    "stock": 40,
+    "category": "ropa",
+    "thumbnails": []
+  }
+]
